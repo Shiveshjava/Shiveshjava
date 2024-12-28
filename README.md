@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shiveshjava
+- 👋 Hi, I’m @Shivesh
 - 👀 I’m interested in java
 - 🌱 I’m currently learning Web Devlopement
 
